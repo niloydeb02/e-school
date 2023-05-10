@@ -1,0 +1,180 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+     .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 15px !important;}
+
+
+
+        /*banner start*/
+
+.b_text {
+    text-align: center;
+}
+
+.b_h1 {
+    
+    padding: 0px;
+    font-size: 35px;
+    line-height: 45px !important;
+    
+    
+   
+    
+}
+.b_p2 {
+    padding: 0 ;
+    
+    line-height: 25px;
+}
+
+.b_g {
+    margin: 15px auto 0;
+    
+    width: 200px;
+    
+}
+.b_img {
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+/*feature start*/
+.feature {
+    padding: 15px 0 60px;
+}
+
+.f_item {
+    margin-top: 24px;
+    
+}
+
+/*feature end*/
+
+    
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 15px !important;}
+
+
+
+    /*banner start*/
+
+.b_text {
+    text-align: center;
+}
+
+.b_h1 {
+    
+    padding: 0px 80px;
+    font-size: 35px;
+    line-height: 45px !important;
+    
+    
+   
+    
+}
+.b_p2 {
+    padding: 0 50px;
+    
+    line-height: 30px;
+}
+
+.b_g {
+    margin: 15px auto 0;
+    
+    width: 350px;
+    
+}
+.b_img {
+    margin-bottom: 30px;
+    padding: 0 50px;
+}
+
+
+/*feature start*/
+.feature {
+    padding: 20px 0 60px;
+}
+
+.f_item {
+    margin-top: 24px;
+    
+}
+
+/*feature end*/
+
+
+ }   
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 15px !important;
+   
+}
+/*banner start*/
+
+.b_text {
+    text-align: center;
+}
+
+.b_h1 {
+    
+    padding: 0px 100px;
+    line-height: 60px !important;
+    
+    
+   
+    
+}
+.b_p2 {
+    padding: 0 110px;
+    
+    line-height: 30px;
+}
+
+.b_g {
+    margin: 15px auto 0;
+    
+    width: 400px;
+    
+}
+.b_img {
+    margin-bottom: 30px;
+    padding: 0 100px;
+}
+
+/*feature start*/
+.feature {
+    padding: 25px 0 80px;
+}
+
+.f_item {
+    margin-top: 24px;
+    
+}
+
+/*feature end*/
+
+
+
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+ }
+
+/*Extra large devices (desktops, 1200px and up)*/
+@media (min-width:1200px) and (max-width: 1399.98px) { 
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+ }
